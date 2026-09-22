@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-09-22 | 会议 | [2026 International LILA Meeting：月球引力波研讨会](会议/2026-12-02-lila-pisa.md) |
 | 2026-09-22 | 会议 | [CosmoFONDUE 2027：CERN 宇宙学会议](会议/2027-01-25-cosmofondue-cern.md) |
 | 2026-09-22 | 招聘 | [蔚蓝海岸天文台：Henri Poincaré 早期研究者博士后 fellowship](招聘/2026-11-16-oca-poincare-fellowship.md) |
 | 2026-09-22 | 招聘 | [日内瓦天文台：引力波物理博士后（2 名）](招聘/2026-11-22-geneva-gw-postdocs.md) |
