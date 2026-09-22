@@ -6,14 +6,16 @@
 
 | 截止日期 | 机构 | 职位 |
 | --- | --- | --- |
+| 2026-11-22 | University of Geneva / Observatory of Geneva | [引力波物理博士后（2 名）](2026-11-22-geneva-gw-postdocs.md) |
 | 2026-11-15 | Niels Bohr Institute | [引力波天体物理博士后](2026-11-15-nbi-postdoc.md) |
 | 2026-10-31 | National University of Singapore | [AI for Gravitational-Wave Astronomy 博士后](2026-10-31-nus-ai4gw-postdoc.md) |
-| 2026-09-18 | Universitat de les Illes Balears | [引力波天文学博士生项目（2 名）](2026-09-18-uib-phd.md) |
 | 持续更新 | Einstein Telescope | [职位列表](持续更新-einstein-telescope-jobs.md) |
 
 ## 已过期
 
-暂无。过期信息保留在本目录中，并从上面的“当前信息”移到这里。
+| 截止日期 | 机构 | 职位 |
+| --- | --- | --- |
+| 2026-09-18 | Universitat de les Illes Balears | [引力波天文学博士生项目（2 名）](2026-09-18-uib-phd.md) |
 
 ## 添加信息
 
