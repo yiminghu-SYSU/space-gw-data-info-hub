@@ -13,6 +13,7 @@
 
 | 会议日期 | 地点 | 活动 | 摘要截止 | 注册截止 |
 | --- | --- | --- | --- | --- |
+| 2027-04-26 至 2027-04-30 | 西班牙 Benalmádena | [Massive Black Holes in the First Billion Years II](2027-04-26-massive-black-holes-first-billion-years-ii.md) | 2026-11-06 | 待公布 |
 | 2027-01-25 至 2027-01-29 | CERN，瑞士 | [CosmoFONDUE 2027：宇宙学会议](2027-01-25-cosmofondue-cern.md) | 2026-11-01 | 2026-11-15（现场） |
 | 2026-12-02 至 2026-12-04 | 意大利比萨 | [2026 International LILA Meeting（月球引力波研讨会）](2026-12-02-lila-pisa.md) | 2026-10-25 | 2026-11-15 |
 
