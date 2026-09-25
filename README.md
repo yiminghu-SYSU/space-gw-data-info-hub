@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-09-25 | 在线学术报告 | [赵少东：从双白矮星引力波源推断银河系结构](在线学术报告/2026-09-28-zhao-shaodong-galactic-structure.md) |
 | 2026-09-23 | 会议 | [Massive Black Holes in the First Billion Years II](会议/2027-04-26-massive-black-holes-first-billion-years-ii.md) |
 | 2026-09-22 | 会议 | [2026 International LILA Meeting：月球引力波研讨会](会议/2026-12-02-lila-pisa.md) |
 | 2026-09-22 | 会议 | [CosmoFONDUE 2027：CERN 宇宙学会议](会议/2027-01-25-cosmofondue-cern.md) |
