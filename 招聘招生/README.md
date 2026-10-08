@@ -9,6 +9,7 @@
 | 2026-12-15 | Niels Bohr Institute | [引力波理论与相对论二体问题博士生](2026-12-15-nbi-gwsky-phd.md) |
 | 2026-12-01 | University of Amsterdam / GRAPPA | [引力波天体物理与暗物质博士生](2026-12-01-uva-grappa-gw-dark-matter-phd.md) |
 | 2026-12-01 起审 | Johns Hopkins University | [引力物理与引力波天文学博士后](2026-12-01-jhu-gravitational-physics-postdocs.md) |
+| 2026-12 前（意向联系） | Instituto Superior Técnico / grit / CENTRA | [引力物理 FCT 三年研究职位申请意向征集](2026-11-30-lisbon-grit-fct-research-fellowships.md) |
 | 2026-11-23 | Albert Einstein Institute（AEI Potsdam） | [引力波科学博士后职位（多个）](2026-11-23-aei-acr-postdocs.md) |
 | 2026-11-22 | University of Geneva / Observatory of Geneva | [引力波物理博士后（2 名）](2026-11-22-geneva-gw-postdocs.md) |
 | 2026-11-16 | Observatoire de la Côte d'Azur | [Henri Poincaré 早期研究者博士后 fellowship](2026-11-16-oca-poincare-fellowship.md) |
