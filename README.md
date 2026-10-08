@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-10-08 | 在线学术报告 | [冯文凡：银河系双星与三星系统中快速自旋中子星引力波建模及应用](在线学术报告/2026-10-12-feng-wenfan-Galactic-System-waveform.md) |
 | 2026-10-08 | 招聘 | [NASA Goddard：LISA 数据分析 Research Scientist](招聘招生/2026-10-23-nasa-goddard-lisa-data-research-scientist.md) |
 | 2026-10-08 | 会议 | [Niels Bohr Institute：School on Gravity 2027](会议/2027-06-21-nbi-school-on-gravity.md) |
 | 2026-10-08 | 招聘 | [UIB：引力波物理 fellowship 与 tenure-track 机会](招聘招生/2026-10-25-uib-fellowships-tenure-track.md) |
