@@ -13,6 +13,7 @@
 
 | 会议日期 | 地点 | 活动 | 摘要截止 | 注册截止 |
 | --- | --- | --- | --- | --- |
+| 2027-07-05 至 2027-07-30 | 法国 Les Houches | [2027 MaNiTou 引力波暑期学校](2027-07-05-manitou-les-houches-gw-summer-school.md) | — | 待公布 |
 | 2027-06-21 至 2027-06-25 | 哥本哈根，Niels Bohr Institute | [School on Gravity: from commotion to locomotion](2027-06-21-nbi-school-on-gravity.md) | — | 申请截止 2027-02-01 |
 | 2027-05 至 2027-09-30 | NBI / AEI | [Center of Gravity：引力物理短期科研交流资助（STSM）](2026-11-30-center-of-gravity-stsm-exchange.md) | — | 申请截止 2026-11-30 |
 | 2027-04-26 至 2027-04-30 | 西班牙 Benalmádena | [Massive Black Holes in the First Billion Years II](2027-04-26-massive-black-holes-first-billion-years-ii.md) | 2026-11-06 | 待公布 |
