@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-10-15 | 招聘 | [GSSI / INFN：引力波物理博士后 Fellowship](招聘招生/2026-11-12-gssi-infn-gw-postdoc.md) |
 | 2026-10-12 | 会议 | [2027 MaNiTou 引力波暑期学校（Les Houches）](会议/2027-07-05-manitou-les-houches-gw-summer-school.md) |
 | 2026-10-12 | 招聘 | [University of Florida：天体物理博士后与教职](招聘招生/2026-university-of-florida-astrophysics-positions.md) |
 | 2026-10-08 | 招聘 | [里斯本 grit/CENTRA：引力物理 FCT 三年研究职位申请意向征集](招聘招生/2026-11-30-lisbon-grit-fct-research-fellowships.md) |

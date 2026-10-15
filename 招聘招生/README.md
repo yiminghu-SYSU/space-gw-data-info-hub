@@ -16,6 +16,7 @@
 | 2026-11-16 | Observatoire de la Côte d'Azur | [Henri Poincaré 早期研究者博士后 fellowship](2026-11-16-oca-poincare-fellowship.md) |
 | 2026-11-15 | CAMK PAN（华沙） | [多信使天体物理与大质量黑洞附近恒星演化博士后](2026-11-15-camk-multimessenger-postdoc.md) |
 | 2026-11-15 | Niels Bohr Institute | [引力波天体物理博士后](2026-11-15-nbi-postdoc.md) |
+| 2026-11-12 | Gran Sasso Science Institute / INFN | [引力波物理博士后 Fellowship](2026-11-12-gssi-infn-gw-postdoc.md) |
 | 2026-11-08 | University of Florida | [实验粒子天体物理 tenure-track 助理教授](2026-university-of-florida-astrophysics-positions.md) |
 | 2026-10-31 | National University of Singapore | [AI for Gravitational-Wave Astronomy 博士后](2026-10-31-nus-ai4gw-postdoc.md) |
 | 2026-10-25（意向登记） | University of the Balearic Islands / GRAVITY | [引力波物理 fellowship 与 tenure-track 机会](2026-10-25-uib-fellowships-tenure-track.md) |
