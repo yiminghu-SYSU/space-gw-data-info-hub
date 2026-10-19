@@ -6,6 +6,7 @@
 
 | 截止日期 | 机构 | 职位 |
 | --- | --- | --- |
+| 2026-12-15 | Vanderbilt University | [引力波与多信使天体物理 VIPER 博士后](2026-12-15-vanderbilt-viper-gw-multimessenger-postdoc.md) |
 | 2026-12-15 | Niels Bohr Institute | [引力波理论与相对论二体问题博士生](2026-12-15-nbi-gwsky-phd.md) |
 | 2026-12-04 | University of Florida | [超大质量黑洞、引力波及多信使天体物理博士后](2026-university-of-florida-astrophysics-positions.md) |
 | 2026-12-01 | University of Amsterdam / GRAPPA | [引力波天体物理与暗物质博士生](2026-12-01-uva-grappa-gw-dark-matter-phd.md) |
