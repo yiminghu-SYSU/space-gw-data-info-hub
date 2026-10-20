@@ -19,6 +19,7 @@
 | 2026-11-15 | Niels Bohr Institute | [引力波天体物理博士后](2026-11-15-nbi-postdoc.md) |
 | 2026-11-12 | Gran Sasso Science Institute / INFN | [引力波物理博士后 Fellowship](2026-11-12-gssi-infn-gw-postdoc.md) |
 | 2026-11-08 | University of Florida | [实验粒子天体物理 tenure-track 助理教授](2026-university-of-florida-astrophysics-positions.md) |
+| 2026-11-01（IGFAE 意向） | IGFAE / Universidade de Santiago de Compostela | [Juan de la Cierva 2026 博士后 Fellowship 推荐支持](2026-11-01-igfae-juan-de-la-cierva-endorsement.md) |
 | 2026-10-31 | National University of Singapore | [AI for Gravitational-Wave Astronomy 博士后](2026-10-31-nus-ai4gw-postdoc.md) |
 | 2026-10-25（意向登记） | University of the Balearic Islands / GRAVITY | [引力波物理 fellowship 与 tenure-track 机会](2026-10-25-uib-fellowships-tenure-track.md) |
 | 2026-10-23 | NASA Goddard / CRESST II | [LISA 数据分析 Research Scientist](2026-10-23-nasa-goddard-lisa-data-research-scientist.md) |
