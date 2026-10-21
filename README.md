@@ -16,6 +16,8 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-10-21 | 在线学术报告 | [梁正程：协同空间探测器揭秘随机引力波背景的非高斯性](在线学术报告/2026-10-19-liang-zhengcheng-sgwb-nongaussianity.md) |
+| 2026-10-21 | 在线学术报告 | [訾铁光：利用极端质量比旋近限制带毛黑洞](在线学术报告/2026-10-26-zi-tieguang-emri-hairy-black-holes.md) |
 | 2026-10-20 | 招聘 | [IGFAE：Juan de la Cierva 2026 博士后 Fellowship 推荐支持](招聘招生/2026-11-01-igfae-juan-de-la-cierva-endorsement.md) |
 | 2026-10-19 | 招聘 | [Vanderbilt University：引力波与多信使天体物理 VIPER 博士后](招聘招生/2026-12-15-vanderbilt-viper-gw-multimessenger-postdoc.md) |
 | 2026-10-15 | 招聘 | [GSSI / INFN：引力波物理博士后 Fellowship](招聘招生/2026-11-12-gssi-infn-gw-postdoc.md) |
