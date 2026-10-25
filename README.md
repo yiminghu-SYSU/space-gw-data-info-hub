@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-10-25 | 招聘 | [INFN Rome：多频段引力波广义相对论检验博士后意向征集](招聘招生/2026-11-13-infn-rome-eyes-on-gr-postdoc.md) |
 | 2026-10-21 | 在线学术报告 | [訾铁光：利用极端质量比旋近限制带毛黑洞](在线学术报告/2026-10-26-zi-tieguang-emri-hairy-black-holes.md) |
 | 2026-10-21 | 招聘 | [NUS：非对称质量双星引力波建模与分析博士后](招聘招生/2026-12-15-nus-asymmetric-mass-binaries-postdoc.md) |
 | 2026-10-20 | 招聘 | [IGFAE：Juan de la Cierva 2026 博士后 Fellowship 推荐支持](招聘招生/2026-11-01-igfae-juan-de-la-cierva-endorsement.md) |

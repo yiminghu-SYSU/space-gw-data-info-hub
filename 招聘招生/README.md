@@ -18,6 +18,7 @@
 | 2026-11-16 | Observatoire de la Côte d'Azur | [Henri Poincaré 早期研究者博士后 fellowship](2026-11-16-oca-poincare-fellowship.md) |
 | 2026-11-15 | CAMK PAN（华沙） | [多信使天体物理与大质量黑洞附近恒星演化博士后](2026-11-15-camk-multimessenger-postdoc.md) |
 | 2026-11-15 | Niels Bohr Institute | [引力波天体物理博士后](2026-11-15-nbi-postdoc.md) |
+| 2026-11-13（意向及推荐信） | INFN Rome | [多频段引力波广义相对论检验博士后意向征集](2026-11-13-infn-rome-eyes-on-gr-postdoc.md) |
 | 2026-11-12 | Gran Sasso Science Institute / INFN | [引力波物理博士后 Fellowship](2026-11-12-gssi-infn-gw-postdoc.md) |
 | 2026-11-08 | University of Florida | [实验粒子天体物理 tenure-track 助理教授](2026-university-of-florida-astrophysics-positions.md) |
 | 2026-11-01（IGFAE 意向） | IGFAE / Universidade de Santiago de Compostela | [Juan de la Cierva 2026 博士后 Fellowship 推荐支持](2026-11-01-igfae-juan-de-la-cierva-endorsement.md) |
