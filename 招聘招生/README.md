@@ -6,6 +6,7 @@
 
 | 截止日期 | 机构 | 职位 |
 | --- | --- | --- |
+| 2026-12-15 | University of Arizona / Arizona Cosmology Lab | [宇宙学与引力波天体物理 ACL Fellowship](2026-12-15-arizona-cosmology-lab-fellowship.md) |
 | 2026-12-15 | Vanderbilt University | [引力波与多信使天体物理 VIPER 博士后](2026-12-15-vanderbilt-viper-gw-multimessenger-postdoc.md) |
 | 2026-12-15 | National University of Singapore | [非对称质量双星引力波建模与分析博士后](2026-12-15-nus-asymmetric-mass-binaries-postdoc.md) |
 | 2026-12-15 | Niels Bohr Institute | [引力波理论与相对论二体问题博士生](2026-12-15-nbi-gwsky-phd.md) |
