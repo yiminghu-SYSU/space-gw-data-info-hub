@@ -15,7 +15,7 @@
 ## 报告安排
 | 日期 | 报告人 | 题目 | 状态 |
 | --- | --- | --- | --- |
-| 2026-11-02 19:30 | 陈然（意大利国际高等研究院 SISSA） | [Imprints of Binary Evolution on Stochastic Gravitational-Wave Backgrounds](2026-11-02-chen-ran-binary-evolution-sgwb.md) | 已确认 |
+| 2026-11-02 19:30 | 陈然（意大利国际高等研究院） | [Imprints of Binary Evolution on Stochastic Gravitational-Wave Backgrounds](2026-11-02-chen-ran-binary-evolution-sgwb.md) | 已确认 |
 | 2026-10-26 19:30 | 訾铁光（南昌大学） | [利用极端质量比旋近限制带毛黑洞](2026-10-26-zi-tieguang-emri-hairy-black-holes.md) | 已确认 |
 | 2026-10-19 19:30 | 梁正程（河南师范大学） | [协同空间探测器揭秘随机引力波背景的非高斯性](2026-10-19-liang-zhengcheng-sgwb-nongaussianity.md) | 已确认 |
 | 2026-10-12 19:30 | 冯文凡（北京大学） | [银河系双星与三星系统中快速自旋中子星引力波建模及应用](2026-10-12-feng-wenfan-Galactic-System-waveform.md) | 已确认 |
