@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-10-29 | 招聘 | [Georgia Tech：School of Physics 博士后 Fellowship](招聘招生/2026-12-01-georgia-tech-physics-postdoctoral-fellowship.md) |
 | 2026-10-27 | 在线学术报告 | [陈然：Imprints of Binary Evolution on Stochastic Gravitational-Wave Backgrounds](在线学术报告/2026-11-02-chen-ran-binary-evolution-sgwb.md) |
 | 2026-10-26 | 招聘 | [中山大学天琴中心：引力波天文学与数据处理博士后（长期有效）](招聘招生/长期招聘-中山大学天琴中心-引力波博士后.md) |
 | 2026-10-26 | 招聘 | [University of Arizona：ACL 宇宙学与引力波天体物理 Fellowship](招聘招生/2026-12-15-arizona-cosmology-lab-fellowship.md) |

@@ -17,6 +17,7 @@
 | 2026-12-15 | National University of Singapore | [非对称质量双星引力波建模与分析博士后](2026-12-15-nus-asymmetric-mass-binaries-postdoc.md) |
 | 2026-12-15 | Niels Bohr Institute | [引力波理论与相对论二体问题博士生](2026-12-15-nbi-gwsky-phd.md) |
 | 2026-12-04 | University of Florida | [超大质量黑洞、引力波及多信使天体物理博士后](2026-university-of-florida-astrophysics-positions.md) |
+| 2026-12-01 | Georgia Institute of Technology | [School of Physics 博士后 Fellowship](2026-12-01-georgia-tech-physics-postdoctoral-fellowship.md) |
 | 2026-12-01 | University of Amsterdam / GRAPPA | [引力波天体物理与暗物质博士生](2026-12-01-uva-grappa-gw-dark-matter-phd.md) |
 | 2026-12-01 起审 | Johns Hopkins University | [引力物理与引力波天文学博士后](2026-12-01-jhu-gravitational-physics-postdocs.md) |
 | 2026-12 前（意向联系） | Instituto Superior Técnico / grit / CENTRA | [引力物理 FCT 三年研究职位申请意向征集](2026-11-30-lisbon-grit-fct-research-fellowships.md) |
