@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-04 | 在线学术报告 | [王盼盼：空间引力波探测数据仿真与预处理研究](在线学术报告/2026-11-09-wang-panpan-data-simulation-preprocessing.md) |
 | 2026-10-29 | 招聘 | [Georgia Tech：School of Physics 博士后 Fellowship](招聘招生/2026-12-01-georgia-tech-physics-postdoctoral-fellowship.md) |
 | 2026-10-27 | 在线学术报告 | [陈然：Imprints of Binary Evolution on Stochastic Gravitational-Wave Backgrounds](在线学术报告/2026-11-02-chen-ran-binary-evolution-sgwb.md) |
 | 2026-10-26 | 招聘 | [中山大学天琴中心：引力波天文学与数据处理博士后（长期有效）](招聘招生/长期招聘-中山大学天琴中心-引力波博士后.md) |
