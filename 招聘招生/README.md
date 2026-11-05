@@ -12,6 +12,7 @@
 
 | 截止日期 | 机构 | 职位 |
 | --- | --- | --- |
+| 2027-01-04（推荐信 01-11） | AEI Potsdam / IMPRS | [“Gravity at the Extreme” 全额资助博士生（多个）](2027-01-04-aei-imprs-gravity-at-the-extreme-phd.md) |
 | 2026-12-15 | University of Arizona / Arizona Cosmology Lab | [宇宙学与引力波天体物理 ACL Fellowship](2026-12-15-arizona-cosmology-lab-fellowship.md) |
 | 2026-12-15 | Vanderbilt University | [引力波与多信使天体物理 VIPER 博士后](2026-12-15-vanderbilt-viper-gw-multimessenger-postdoc.md) |
 | 2026-12-15 | National University of Singapore | [非对称质量双星引力波建模与分析博士后](2026-12-15-nus-asymmetric-mass-binaries-postdoc.md) |
