@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-06 | 会议 | [Simulating Extreme Spacetimes with SpEC and SpECTRE II](会议/2027-07-19-spec-spectre-extreme-spacetimes-ii.md) |
 | 2026-11-05 | 招生 | [AEI Potsdam / IMPRS：“Gravity at the Extreme” 全额资助博士生（多个）](招聘招生/2027-01-04-aei-imprs-gravity-at-the-extreme-phd.md) |
 | 2026-11-04 | 在线学术报告 | [王盼盼：空间引力波探测数据仿真与预处理研究](在线学术报告/2026-11-09-wang-panpan-data-simulation-preprocessing.md) |
 | 2026-10-29 | 招聘 | [Georgia Tech：School of Physics 博士后 Fellowship](招聘招生/2026-12-01-georgia-tech-physics-postdoctoral-fellowship.md) |
