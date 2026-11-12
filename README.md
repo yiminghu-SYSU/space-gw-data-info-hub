@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-12 | 招聘 | [Syracuse University OSPO：Research Software Engineer 博士后（多个）](招聘招生/2026-12-07-syracuse-ospo-rse-postdocs.md) |
 | 2026-11-07 | 招聘 | [里斯本 grit/CENTRA：RiDE 黑洞振铃与引力波博士后](招聘招生/2026-12-11-lisbon-ride-ringdown-postdoc.md) |
 | 2026-11-06 | 会议 | [Simulating Extreme Spacetimes with SpEC and SpECTRE II](会议/2027-07-19-spec-spectre-extreme-spacetimes-ii.md) |
 | 2026-11-05 | 招生 | [AEI Potsdam / IMPRS：“Gravity at the Extreme” 全额资助博士生（多个）](招聘招生/2027-01-04-aei-imprs-gravity-at-the-extreme-phd.md) |
