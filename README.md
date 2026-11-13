@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-13 | 招聘 | [MicroBH：黑洞微观结构、数值相对论与引力波博士后（多节点）](招聘招生/2026-12-15-microbh-jtf-postdocs.md) |
 | 2026-11-12 | 招聘 | [Syracuse University OSPO：Research Software Engineer 博士后（多个）](招聘招生/2026-12-07-syracuse-ospo-rse-postdocs.md) |
 | 2026-11-07 | 招聘 | [里斯本 grit/CENTRA：RiDE 黑洞振铃与引力波博士后](招聘招生/2026-12-11-lisbon-ride-ringdown-postdoc.md) |
 | 2026-11-06 | 会议 | [Simulating Extreme Spacetimes with SpEC and SpECTRE II](会议/2027-07-19-spec-spectre-extreme-spacetimes-ii.md) |
