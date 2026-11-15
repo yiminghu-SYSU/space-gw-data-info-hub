@@ -16,6 +16,8 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-15 | 招聘 | [UT Austin：数值相对论与引力波博士后（最多 2 名）](招聘招生/2027-01-03-ut-austin-cgp-nr-gw-postdocs.md) |
+| 2026-11-15 | 招聘 | [University of Arizona：理论天体物理博士后 Fellowships](招聘招生/university-of-arizona-theoretical-astrophysics-postdoc-fellowships.md) |
 | 2026-11-15 | 会议 | [Rencontres de Moriond 2027：Gravitation](会议/2027-03-14-moriond-gravitation.md) |
 | 2026-11-13 | 招聘 | [MicroBH：黑洞微观结构、数值相对论与引力波博士后（多节点）](招聘招生/2026-12-15-microbh-jtf-postdocs.md) |
 | 2026-11-12 | 招聘 | [Syracuse University OSPO：Research Software Engineer 博士后（多个）](招聘招生/2026-12-07-syracuse-ospo-rse-postdocs.md) |

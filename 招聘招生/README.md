@@ -13,6 +13,7 @@
 | 截止日期 | 机构 | 职位 |
 | --- | --- | --- |
 | 2027-01-04（推荐信 01-11） | AEI Potsdam / IMPRS | [“Gravity at the Extreme” 全额资助博士生（多个）](2027-01-04-aei-imprs-gravity-at-the-extreme-phd.md) |
+| 2027-01-03 | The University of Texas at Austin / CGP | [数值相对论与引力波博士后（最多 2 名）](2027-01-03-ut-austin-cgp-nr-gw-postdocs.md) |
 | 2026-12-15（Cambridge 须另申） | MicroBH：Paris-Saclay / Rome / Cambridge / Urbana-Champaign | [黑洞微观结构、数值相对论与引力波博士后（多节点）](2026-12-15-microbh-jtf-postdocs.md) |
 | 2026-12-15 | University of Arizona / Arizona Cosmology Lab | [宇宙学与引力波天体物理 ACL Fellowship](2026-12-15-arizona-cosmology-lab-fellowship.md) |
 | 2026-12-15 | Vanderbilt University | [引力波与多信使天体物理 VIPER 博士后](2026-12-15-vanderbilt-viper-gw-multimessenger-postdoc.md) |
@@ -39,6 +40,7 @@
 | 2026-10-23 | NASA Goddard / CRESST II | [LISA 数据分析 Research Scientist](2026-10-23-nasa-goddard-lisa-data-research-scientist.md) |
 | 2026-10-23（10-09 前联系） | Astronomical Institute, Czech Academy of Sciences | [小质量比黑洞双星引力波等方向博士后](2026-10-23-czech-academy-postdocs.md) |
 | 2026-10-18 | Els Koffeman Fellowship（荷兰） | [面向代表性不足群体的博士后 fellowship](2026-10-18-els-koffeman-postdoctoral-fellowship.md) |
+| 邮件未注明 | University of Arizona | [理论天体物理博士后 Fellowships（黑洞、中子星、数值相对论与引力波）](university-of-arizona-theoretical-astrophysics-postdoc-fellowships.md) |
 | 持续更新 | Einstein Telescope | [职位列表](持续更新-einstein-telescope-jobs.md) |
 
 ## 已过期
