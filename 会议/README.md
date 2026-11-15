@@ -18,6 +18,7 @@
 | 2027-06-21 至 2027-06-25 | 哥本哈根，Niels Bohr Institute | [School on Gravity: from commotion to locomotion](2027-06-21-nbi-school-on-gravity.md) | — | 申请截止 2027-02-01 |
 | 2027-05 至 2027-09-30 | NBI / AEI | [Center of Gravity：引力物理短期科研交流资助（STSM）](2026-11-30-center-of-gravity-stsm-exchange.md) | — | 申请截止 2026-11-30 |
 | 2027-04-26 至 2027-04-30 | 西班牙 Benalmádena | [Massive Black Holes in the First Billion Years II](2027-04-26-massive-black-holes-first-billion-years-ii.md) | 2026-11-06 | 待公布 |
+| 2027-03-14 至 2027-03-21 | 意大利 La Thuile | [Rencontres de Moriond 2027：Gravitation](2027-03-14-moriond-gravitation.md) | 2027-01-19 | 2027-01-17 |
 | 2027-02-08 至 2027-02-12 | 西班牙巴塞罗那 | [第五届高频引力波研讨会](2027-02-08-high-frequency-gravitational-waves-workshop.md) | — | 未注明，注册已开放 |
 | 2027-01-25 至 2027-01-29 | CERN，瑞士 | [CosmoFONDUE 2027：宇宙学会议](2027-01-25-cosmofondue-cern.md) | 2026-11-01 | 2026-11-15（现场） |
 | 2026-12-02 至 2026-12-04 | 意大利比萨 | [2026 International LILA Meeting（月球引力波研讨会）](2026-12-02-lila-pisa.md) | 2026-10-25 | 2026-11-15 |
