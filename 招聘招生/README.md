@@ -40,6 +40,7 @@
 | 2026-10-23 | NASA Goddard / CRESST II | [LISA 数据分析 Research Scientist](2026-10-23-nasa-goddard-lisa-data-research-scientist.md) |
 | 2026-10-23（10-09 前联系） | Astronomical Institute, Czech Academy of Sciences | [小质量比黑洞双星引力波等方向博士后](2026-10-23-czech-academy-postdocs.md) |
 | 2026-10-18 | Els Koffeman Fellowship（荷兰） | [面向代表性不足群体的博士后 fellowship](2026-10-18-els-koffeman-postdoctoral-fellowship.md) |
+| 邮件未注明 | IFAE / BIST | [高频引力波探测理论研究博士后（2 名）与博士生（2 名）](ifae-erc-high-frequency-gw-postdoc-phd-positions.md) |
 | 邮件未注明 | University of Arizona | [理论天体物理博士后 Fellowships（黑洞、中子星、数值相对论与引力波）](university-of-arizona-theoretical-astrophysics-postdoc-fellowships.md) |
 | 持续更新 | Einstein Telescope | [职位列表](持续更新-einstein-telescope-jobs.md) |
 

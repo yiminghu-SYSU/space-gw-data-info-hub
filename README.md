@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-16 | 招聘招生 | [IFAE：高频引力波探测理论研究博士后与博士生岗位](招聘招生/ifae-erc-high-frequency-gw-postdoc-phd-positions.md) |
 | 2026-11-15 | 招聘 | [UT Austin：数值相对论与引力波博士后（最多 2 名）](招聘招生/2027-01-03-ut-austin-cgp-nr-gw-postdocs.md) |
 | 2026-11-15 | 招聘 | [University of Arizona：理论天体物理博士后 Fellowships](招聘招生/university-of-arizona-theoretical-astrophysics-postdoc-fellowships.md) |
 | 2026-11-15 | 会议 | [Rencontres de Moriond 2027：Gravitation](会议/2027-03-14-moriond-gravitation.md) |
