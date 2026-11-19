@@ -15,6 +15,7 @@
 ## 报告安排
 | 日期 | 报告人 | 题目 | 状态 |
 | --- | --- | --- | --- |
+| 2026-11-23 | 李知圆（西南交通大学） | [各向异性随机背景的数据处理](2026-11-23-li-zhiyuan-anisotropic-sgwb-analysis.md) | 已确认 |
 | 2026-11-09 | 王盼盼（重庆大学） | [空间引力波探测数据仿真与预处理研究](2026-11-09-wang-panpan-data-simulation-preprocessing.md) | 已确认 |
 | 2026-11-02 | 陈然（意大利国际高等研究院） | [Imprints of Binary Evolution on Stochastic Gravitational-Wave Backgrounds](2026-11-02-chen-ran-binary-evolution-sgwb.md) | 已确认 |
 | 2026-10-26 | 訾铁光（南昌大学） | [利用极端质量比旋近限制带毛黑洞](2026-10-26-zi-tieguang-emri-hairy-black-holes.md) | 已确认 |
