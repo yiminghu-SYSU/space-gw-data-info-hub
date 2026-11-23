@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-23 | 招聘 | [University of Geneva：引力波天体物理 Software Research Fellow](招聘招生/2026-12-15-geneva-posydon-software-research-fellow.md) |
 | 2026-11-20 | 教职 | [Johns Hopkins University：天文学与天体物理助理教授](招聘招生/2026-12-16-jhu-astronomy-astrophysics-assistant-professor.md) |
 | 2026-11-19 | 在线学术报告 | [李知圆：各向异性随机背景的数据处理](在线学术报告/2026-11-23-li-zhiyuan-anisotropic-sgwb-analysis.md) |
 | 2026-11-16 | 招聘招生 | [IFAE：高频引力波探测理论研究博士后与博士生岗位](招聘招生/ifae-erc-high-frequency-gw-postdoc-phd-positions.md) |

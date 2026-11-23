@@ -16,6 +16,7 @@
 | 2027-01-03 | The University of Texas at Austin / CGP | [数值相对论与引力波博士后（最多 2 名）](2027-01-03-ut-austin-cgp-nr-gw-postdocs.md) |
 | 2026-12-16 起审 | Johns Hopkins University | [天文学与天体物理助理教授](2026-12-16-jhu-astronomy-astrophysics-assistant-professor.md) |
 | 2026-12-15（Cambridge 须另申） | MicroBH：Paris-Saclay / Rome / Cambridge / Urbana-Champaign | [黑洞微观结构、数值相对论与引力波博士后（多节点）](2026-12-15-microbh-jtf-postdocs.md) |
+| 2026-12-15 | University of Geneva | [引力波天体物理 Software Research Fellow（POSYDON / SWISS-ET，4 年）](2026-12-15-geneva-posydon-software-research-fellow.md) |
 | 2026-12-15 | University of Arizona / Arizona Cosmology Lab | [宇宙学与引力波天体物理 ACL Fellowship](2026-12-15-arizona-cosmology-lab-fellowship.md) |
 | 2026-12-15 | Vanderbilt University | [引力波与多信使天体物理 VIPER 博士后](2026-12-15-vanderbilt-viper-gw-multimessenger-postdoc.md) |
 | 2026-12-15 | National University of Singapore | [非对称质量双星引力波建模与分析博士后](2026-12-15-nus-asymmetric-mass-binaries-postdoc.md) |
