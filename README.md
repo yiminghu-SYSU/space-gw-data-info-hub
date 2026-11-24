@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-11-24 | 招聘 | [SISSA：GWSKy 引力波物理博士后（多个）](招聘招生/2026-12-31-sissa-gwsky-postdocs.md) |
 | 2026-11-23 | 在线学术报告 | [熊炜：Beyond Vacuum EMRIs: Energy Transfer and Conservative Effects from Collisionless Dark Matter](在线学术报告/2026-11-30-xiong-wei-emri-collisionless-dark-matter.md) |
 | 2026-11-23 | 招聘 | [University of Geneva：引力波天体物理 Software Research Fellow](招聘招生/2026-12-15-geneva-posydon-software-research-fellow.md) |
 | 2026-11-20 | 教职 | [Johns Hopkins University：天文学与天体物理助理教授](招聘招生/2026-12-16-jhu-astronomy-astrophysics-assistant-professor.md) |

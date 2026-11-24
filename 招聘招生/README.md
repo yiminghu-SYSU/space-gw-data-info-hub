@@ -14,6 +14,7 @@
 | --- | --- | --- |
 | 2027-01-04（推荐信 01-11） | AEI Potsdam / IMPRS | [“Gravity at the Extreme” 全额资助博士生（多个）](2027-01-04-aei-imprs-gravity-at-the-extreme-phd.md) |
 | 2027-01-03 | The University of Texas at Austin / CGP | [数值相对论与引力波博士后（最多 2 名）](2027-01-03-ut-austin-cgp-nr-gw-postdocs.md) |
+| 2026-12-31 | SISSA | [GWSKy 引力波物理博士后（多个）](2026-12-31-sissa-gwsky-postdocs.md) |
 | 2026-12-16 起审 | Johns Hopkins University | [天文学与天体物理助理教授](2026-12-16-jhu-astronomy-astrophysics-assistant-professor.md) |
 | 2026-12-15（Cambridge 须另申） | MicroBH：Paris-Saclay / Rome / Cambridge / Urbana-Champaign | [黑洞微观结构、数值相对论与引力波博士后（多节点）](2026-12-15-microbh-jtf-postdocs.md) |
 | 2026-12-15 | University of Geneva | [引力波天体物理 Software Research Fellow（POSYDON / SWISS-ET，4 年）](2026-12-15-geneva-posydon-software-research-fellow.md) |
